@@ -1,11 +1,11 @@
-# Hey, I'm Giovanni! 👋
+# Hey, I'm Giovanni! 
 
-### 🚀 How it all started
+### How it all started
 I learned the ropes of software development at the **Developer Akademie** in **Munich**. 
 
 It’s known as one of the best and most respected bootcamps in Germany, and for a good reason: it was intense and very hands-on. Instead of just theory, I spent my time building real-world projects. This experience really shaped how I think about code, from the first spark of logic to actually shipping a scalable application.
 
-### 📈 Watching the progress
+### Watching the progress
 I’m a big fan of being transparent about my journey. That’s why I keep my early projects public, even the "messy" ones. They are a roadmap of my growth, you can literally see how I went from writing my first lines of code to building the professional applications I’m working on today. 
 
 For me, the learning never stops. I'm always looking for ways to make my code cleaner and my solutions a bit smarter than they were yesterday.
@@ -29,7 +29,8 @@ These are the tools I use to bring ideas to life:
 
 ---
 
-### 🎯 What's Next?
+### What's Next?
 If you look at my GitHub, you’ll mostly see web apps and API backends. I’m proud of those, but I’m ready to go **beyond the browser**.
 
 I really want to get into building "proper" standalone programs and desktop software. That’s why I’m currently diving into **Flutter**. I love the idea of writing code once and having it run everywhere, not just as a website but as a real powerful program on any device.
+
